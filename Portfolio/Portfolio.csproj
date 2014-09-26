@@ -61,6 +61,7 @@
     <Content Include="Contact_Me.html" />
     <Content Include="Information.html" />
     <Content Include="Portfolio.html" />
+    <Content Include="Privacy_Policy.html" />
     <Content Include="Projects.html" />
     <Content Include="Services.html" />
     <Content Include="Terms_of_Use.html" />
