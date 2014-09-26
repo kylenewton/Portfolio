@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About_Me.html" />
     <Content Include="Contact_Me.html" />
     <Content Include="Portfolio.html" />
     <Content Include="Projects.html" />
